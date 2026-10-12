@@ -1,3 +1,15 @@
+# Практическая работа №4
+## Выполнили студенты группы П25-2.1. Оганджанян Нарек Артёмикович и Хохлов Максим
+## Тема: Колонизация Марса
+
+<picture> <img src="скрины 5 1 rev/1.png"> 
+</picture>
+
+<picture> <img src="скрины 5 1 rev/2.png"> 
+</picture>
+
+<picture> <img src="скрины 5 1 rev/3.png"> 
+</picture>
 
 ```csharp
 
@@ -176,3 +188,15 @@ namespace _5_practic_1_rev
         }
     }
 }
+
+```
+---
+
+<picture> <img src="скрины 5 1 rev/4.png"> 
+</picture>
+
+<picture> <img src="скрины 5 1 rev/5.png"> 
+</picture>
+
+<picture> <img src="скрины 5 1 rev/6.png"> 
+</picture>
