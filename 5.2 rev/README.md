@@ -338,3 +338,18 @@ namespace _5_practic_2_rev
 
 <picture> <img src="скрины 5 2 rev/6.png"> 
 </picture>
+
+<picture> <img src="скрины 5 2 rev/7.png"> 
+</picture>
+
+<picture> <img src="скрины 5 2 rev/8.png"> 
+</picture>
+
+<picture> <img src="скрины 5 2 rev/9.png"> 
+</picture>
+
+<picture> <img src="скрины 5 2 rev/10.png"> 
+</picture>
+
+<picture> <img src="скрины 5 2 rev/11.png"> 
+</picture>
