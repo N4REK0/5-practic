@@ -11,8 +11,7 @@
 <picture> <img src="скрины 5 2 rev/3.png"> 
 </picture>
 
-```
-csharp
+``` csharp
 
 using System;
 using System.Collections.Generic;
